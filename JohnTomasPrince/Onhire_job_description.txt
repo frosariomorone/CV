@@ -1,0 +1,75 @@
+E-commerce | Full-time | Remote-friendly
+
+🚀 About the Project
+We’re building a modern, high-traffic e-commerce platform where performance, scalability, and conversion-focused UX are non-negotiable.
+
+Our frontend stack is React (18+) + TypeScript, powered by Node.js APIs, and supports complex, real-world flows — from large product catalogs and pricing logic to carts, checkout, and user accounts across web and mobile.
+
+Our mission: deliver a fast, reliable shopping experience at scale, backed by clean architecture and a high engineering bar.
+
+
+🛠 What You’ll Do
+Build and ship core e-commerce experiences using React + TypeScript:
+product listings, PDPs, cart, checkout, and account flows.
+
+Design and maintain scalable frontend architecture using modern patterns
+(feature-based modules, reusable components, custom hooks).
+
+Integrate with Node.js REST APIs for products, pricing, inventory, promotions, orders, and users.
+
+Manage client and server state using Redux Toolkit, React Query, or similar tools.
+
+Implement responsive, accessible, mobile-first UIs using Tailwind CSS, CSS Modules, or Styled Components.
+
+Optimize frontend performance: bundle size, code-splitting, lazy loading, memoization, Core Web Vitals.
+
+Collaborate closely with backend, product, and design to deliver features end-to-end.
+
+Participate in code reviews and help improve engineering standards and documentation.
+
+👀 You Might Be a Fit If You Have
+Strong production experience with React and TypeScript.
+
+Solid understanding of modern JavaScript (ES2020+), async patterns, and browser fundamentals.
+
+Experience integrating frontend applications with Node.js backends via REST APIs.
+
+Hands-on experience with state management (Redux Toolkit, React Query, Zustand, or similar).
+
+Experience building data-heavy UIs (filters, pagination, search, sorting).
+
+Practical knowledge of frontend performance optimization and debugging.
+
+Familiarity with authentication flows (JWT, sessions, OAuth).
+
+Comfort working in a collaborative, Git-based workflow.
+
+
+📈 Level & Experience
+We hire for impact and capability, not just years.
+
+Mid-level: typically 3–5 years building React applications with growing ownership.
+
+Senior: typically 5+ years, with clear architectural influence and mentoring experience.
+
+If you demonstrate senior-level impact without matching the years exactly — we still want to talk.
+
+⚠️ Note: This role is not suitable for junior developers.
+
+
+✨ Nice to Have
+E-commerce experience (checkout flows, payments, pricing, promotions).
+
+Familiarity with Next.js (SSR/SSG) and SEO considerations.
+
+Testing experience with Jest and React Testing Library.
+
+Experience with analytics, monitoring, or experimentation tools
+(Datadog, Sentry, GA, PostHog).
+
+Accessibility knowledge (WCAG).
+
+Experience working in Agile / Scrum teams.
+
+✅ Success in This Role Looks Like
+You consistently deliver high-quality, reliable e-commerce features, keep the UI fast and maintainable, and help raise the overall frontend engineering bar through thoughtful design, collaboration, and technical ownership.

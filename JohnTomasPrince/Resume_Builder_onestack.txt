@@ -1,0 +1,62 @@
+Resume Builder Prompt
+
+attach file is my resume.
+Please update it according to the following rules:
+
+My resume should be focus only strong linux
+Databases: SQL and NoSQL
+Experince: UI/UX design,Figma, Google Analytics, Zapier, GSAP
+DevOps: AWS, GCP
+Industry Focus: Healthcare
+Avoid heavy or repetitive wording in resume.
+Don't repeat action words like built, delivered, automated, ...
+Optimize all content for ATS (Applicant Tracking Systems).
+Use bullet points when describing work experience.
+Ensure the resume reflects approximately 60% frontend and 40% backend experience.
+Include third-party services and integrations (e.g., Auth0, Stripe, Twilio, Firebase, etc.) in work experience to show senior-level expertise and industry depth.
+Do not label bullets or sections explicitly as “DevOps:” or similar — integrate them naturally.
+For the most recent company, include at least 10 bullet points.
+For previous companies, include at least 7 bullet points each.
+
+Structure:
+1️⃣ Summary → 4–5 lines
+2️⃣ Work Experience → detailed and measurable bullet points
+3️⃣ Skills → grouped and ecosystem-rich
+4️⃣ Education
+
+Summary Rules:
+• 4–5 concise lines.
+• Mention total years of experience, core stacks, and healthcare specialization.
+• Highlight performance, scalability, and compliance achievements.
+• Maintain a professional tone without pronouns.
+
+Work Experience Rules(MUST):
+• Each bullet should follow the “What → How → Result” format.
+• Keep bullets concise (20–25 words) and impactful.
+• Naturally blend frontend and backend stacks — reference frameworks like React, Angular, Vue, Next.js, Node.js, or PHP where applicable.
+• Include DevOps-related details such as CI/CD pipelines, containerization, or monitoring integrations.
+• Reference specific technologies, frameworks, and tools to demonstrate technical depth.
+• Emphasize measurable results — include metrics like “improved load time by 30%,” “reduced latency by 25%,” or “cut deployment errors by 40%.”
+• Incorporate third-party integrations, cloud deployments, and security/compliance measures where relevant.
+• When describing each work experience, make sure the listed technologies and frameworks (frontend and backend) accurately reflect the stacks in use during that specific employment period.
+• Explicitly mention backend frameworks (e.g., Go: Gin, Fiber; Rust: Actix, Axum) within each company’s experience, not only in the skills section. Each role must include at least one backend framework reference to reflect hands-on API/service development.
+
+Soft Skills Rules
+• Integrate soft skills naturally within achievements — do not list them separately.
+• Emphasize traits like leadership, collaboration, communication, adaptability, mentoring, problem-solving, and accountability.
+• Demonstrate soft skills through actions and outcomes in bullet points (e.g., leading teams, cross-functional collaboration, mentoring junior developers, or stakeholder communication).
+• Avoid generic adjectives; show impact through measurable contributions (e.g., “Led cross-functional team delivering HIPAA-compliant platform 20% faster” instead of “Strong leadership skills”).
+• Align soft skills with senior-level responsibilities such as architectural decision-making, mentorship, and cross-department coordination.
+
+Skills Section Rules:
+• Don’t use sentences — just grouped, detailed lists.
+• Each primary technology should expand into related frameworks, libraries, or tools to showcase senior-level mastery.
+• Make it comprehensive, rich in ecosystem keywords, and ATS-optimized.
+
+Formatting:
+• Use professional, consistent spacing and alignment.
+• Maintain clean structure and logical flow.
+• No personal pronouns or unnecessary adjectives.
+
+Goal:
+Generate a polished, ATS-optimized, healthcare-focused, senior-level resume that reflects strong frontend and backend expertise, detailed technical depth, measurable achievements, and clear DevOps awareness.
